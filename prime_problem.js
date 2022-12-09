@@ -8,11 +8,7 @@ function prime(num){
 	count++
 	}
 	}
-if(count==2){
-return true
-}else{
-return false
-}	
+	
 }
 
 let x=prime(13);
